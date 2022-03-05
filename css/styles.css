@@ -11,3 +11,7 @@ background-image: linear-gradient(132deg, #82f43f 0%, #16A085 100%);
 padding-top: 15px;
 padding-bottom: 15px;
 }
+
+.feature--image img {
+	width:100%;
+}
