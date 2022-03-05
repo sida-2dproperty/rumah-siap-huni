@@ -8,11 +8,13 @@ background-image: linear-gradient(132deg, #82f43f 0%, #16A085 100%);
   background-image: -ms-linear-gradient( 135deg, rgb(244,202,216) 0%, rgb(129,112,137) 35%, rgb(14,21,58) 100%);
 }
 .feature--image {
-padding-top: 15px;
-padding-bottom: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	width:90%;
+	height: auto;
 }
 
 .feature--image img {
 	width:90%;
+	height: auto;
 }
