@@ -227,7 +227,7 @@ header{
 .testimonial-content{
 	padding: 2rem 8rem;
     position: relative;
-    top: -45px;
+    /* top: -45px; */
     color: #5a5a5a;
     font-weight: 600;
 }
@@ -239,7 +239,7 @@ header{
 }
 .testimonial-container .client-details{
 	position: relative;
-	top: -45px;
+	/* top: -45px; */
 }
 .testimonial-container .client-details img{
 	border-radius: 50%;
