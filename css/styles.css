@@ -21,3 +21,11 @@ background-image: linear-gradient(132deg, #82f43f 0%, #16A085 100%);
 	width:90%;
 	height: auto;
 }
+
+
+.testimonial-content{
+    /* top: -45px; */
+}
+.testimonial-container .client-details{
+	/* top: -45px; */
+}
