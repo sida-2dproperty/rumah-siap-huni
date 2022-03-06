@@ -29,3 +29,8 @@ background-image: linear-gradient(132deg, #82f43f 0%, #16A085 100%);
 .testimonial-container .client-details{
 	/* top: -45px; */
 }
+
+img.best--client {
+	width: 45%;
+	object-fit: cover;
+}
