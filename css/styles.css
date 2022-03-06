@@ -30,7 +30,8 @@ background-image: linear-gradient(132deg, #82f43f 0%, #16A085 100%);
 	/* top: -45px; */
 }
 
-img.best--client {
+img .best--client {
 	width: 45%;
+	height:45%;
 	object-fit: cover;
 }
