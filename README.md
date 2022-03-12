@@ -34,6 +34,14 @@ Perumahan Bumi Riski Abadi Lokasi : Barombong Gowa
 Perumahan Subsidi Benteng Mutiara Lokasi :: Pattalassang Gowa
 ![Benteng Mutiara](https://user-images.githubusercontent.com/59762090/158000470-c158f87c-dfda-4d3e-9ec6-1ce5640b1367.jpeg)
 
+2d hitam
+![2d-property](https://user-images.githubusercontent.com/59762090/158002746-bdfa8386-76a4-42e0-a498-eb0aa31877a0.png)
+2d putih
+![2d-property-w](https://user-images.githubusercontent.com/59762090/158002758-f62f6576-8ca5-4098-8f8a-6e97e21fff20.png)
+
+
+
+
 Rumah Pinggir Jalan Poros Bukit Ketapang Pattalassang Gowa Free Kanopi
 Jl.Poros Pattalassang Makassar
 ![Pattalassang Makassar](https://user-images.githubusercontent.com/59762090/158000697-f18ed0ee-2156-4f62-a0ad-c60ce8e8a2f8.jpg)
