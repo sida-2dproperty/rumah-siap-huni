@@ -28,3 +28,15 @@ sesi foto foto
 ![WhatsApp Image 2022-03-06 at 08 32 10](https://user-images.githubusercontent.com/100977530/156905515-9dce60ff-adf7-408a-bfc9-fb779ca9f31b.jpeg)
 ![WhatsApp Image 2022-03-06 at 08 32 26](https://user-images.githubusercontent.com/100977530/156905516-c5962a80-313e-4ddd-8fae-a2fe918d2282.jpeg)
 
+Perumahan Bumi Riski Abadi Lokasi : Barombong Gowa
+![Perumahan Bumi Riski Abadi](https://user-images.githubusercontent.com/59762090/158000422-7800582a-398b-4dba-8446-3089ed0d9ee3.jpeg)
+
+Perumahan Subsidi Benteng Mutiara Lokasi :: Pattalassang Gowa
+![Benteng Mutiara](https://user-images.githubusercontent.com/59762090/158000470-c158f87c-dfda-4d3e-9ec6-1ce5640b1367.jpeg)
+
+Rumah Pinggir Jalan Poros Bukit Ketapang Pattalassang Gowa Free Kanopi
+Jl.Poros Pattalassang Makassar
+![Pattalassang Makassar](https://user-images.githubusercontent.com/59762090/158000697-f18ed0ee-2156-4f62-a0ad-c60ce8e8a2f8.jpg)
+
+
+
